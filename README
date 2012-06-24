@@ -1,0 +1,4 @@
+install:
+Run
+$ bash setup.sh xyz:8080
+where xyz:8080 is the host/ip of the server.
